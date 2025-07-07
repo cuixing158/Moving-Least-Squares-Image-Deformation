@@ -1,6 +1,7 @@
 # Moving Least Squares Image Deformation
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=cuixing158/Moving-Least-Squares-Image-Deformation)
+[![View Moving-Least-Squares-Image-Deformation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/181409-moving-least-squares-image-deformation)
 
 ![Demo GIF](images/output.gif)
 
